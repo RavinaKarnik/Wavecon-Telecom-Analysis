@@ -1,5 +1,9 @@
 # Wavecon-Telecom-Analysis
 Codebasics Virtual Internship Task - 5G Impact Dashboard
+
+![wavecon telecom analysis](https://github.com/RavinaKarnik/Wavecon-Telecom-Analysis/assets/130289037/6b66c777-c7a3-4dc7-8538-dea74a2777ec)
+
+
 ## Overview
 The successful completion of the Codebasics Virtual Internship Task! 🎉👨‍💻 Diving deep into the 5G Impact Dashboard.
 
